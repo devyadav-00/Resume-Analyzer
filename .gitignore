@@ -68,3 +68,11 @@ models/
 
 # Windows
 Thumbs.db
+
+ats_resume_model.pkl
+
+label_encoder.pkl
+resume_score_model.pkl
+resume_similarity_model.pkl
+tfidf_vectorizer.pkl
+ats_resume_model.pkl
