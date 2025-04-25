@@ -7,7 +7,7 @@ def navigation_bar():
 
     # GitHub icon and link
     github_icon = """
-    <a href='https://github.com/its-kundan/Resume-to-Job-Matcher' target='_blank'>
+    <a href='https://github.com/devyadav-00/Resume-Analyzer' target='_blank'>
         <img src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' width='30' height='30'>
     </a>
     """

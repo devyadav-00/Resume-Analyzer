@@ -36,16 +36,8 @@ def footer():
             }
         </style>
         <div class="footer">
-            <div class="footer-left">
-                Developed with ❤️ by <a href="https://github.com/its-kundan" target="_blank">Kundan Kumar</a>
-            </div>
-            <div class="footer-center">
-                🌐 <a href="https://kundan-cv-portfolio.vercel.app/" target="_blank">Portfolio</a> | 
-                📧 <a href="mailto:kundan51kk@gmail.com">Email</a> | 
-                🔗 <a href="https://linkedin.com/in/its-kundan" target="_blank">LinkedIn</a>
-            </div>
             <div class="footer-right">
-                View on <a href="https://github.com/its-kundan/Resume-to-Job-Matcher" target="_blank">GitHub</a>
+                View on <a href="https://github.com/devyadav-00/Resume-Analyzer" target="_blank">GitHub</a>
             </div>
         </div>
         """,
